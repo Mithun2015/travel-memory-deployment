@@ -29,4 +29,27 @@ Data format to be added:
 For frontend, you need to create `.env` file and put the following content (remember to change it based on your requirements):
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
+
+
+
+
+## 📸 Screenshots
+
+### 🖥️ Application Home Page
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/fd574945-20e2-4d68-a3ec-cdfbdbeb06f8" />
+
+
+### ☁️ EC2 Instances
+<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/1259aa8b-9b83-430c-99fd-905dec25bb40" />
+
+
+### ⚖️ Load Balancer
+<img width="1280" height="724" alt="image" src="https://github.com/user-attachments/assets/644a5f05-93f2-44f0-a718-6edccb9372a8" />
+
+
+### 🗄️ MongoDB Atlas
+<img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/f81e4319-a442-4436-b7b1-d3c9703db3de" />
+
+
 ```
+
